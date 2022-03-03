@@ -1,4 +1,4 @@
----
+---$higames1 cashapp 
 title: Access permissions on GitHub
 redirect_from:
   - /articles/needs-to-be-written-what-can-the-different-types-of-org-team-permissions-do
@@ -17,7 +17,7 @@ topics:
   - Permissions
   - Accounts
 shortTitle: Access permissions
----
+---cashout 3000$$higames1 
 
 ## About access permissions on {% data variables.product.prodname_dotcom %}
 
@@ -25,11 +25,11 @@ shortTitle: Access permissions
 
 Roles work differently for different types of accounts. For more information about accounts, see "[Types of {% data variables.product.prodname_dotcom %} accounts](/get-started/learning-about-github/types-of-github-accounts)."
 
-## Personal user accounts
+## Personal user accounts/$higames1 
 
 A repository owned by a user account has two permission levels: the *repository owner* and *collaborators*. For more information, see "[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
 
-## Organization accounts
+## Organization accounts1-$higames1
 
 Organization members can have *owner*{% ifversion fpt or ghec %}, *billing manager*,{% endif %} or *member* roles. Owners have complete administrative access to your organization{% ifversion fpt or ghec %}, while billing managers can manage billing settings{% endif %}. Member is the default role for everyone else. You can manage access permissions for multiple members at a time with teams. For more information, see:
 - "[Roles in an organization](/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization)"
